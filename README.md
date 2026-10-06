@@ -7,6 +7,7 @@ All dsa questions of leetcode
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Rohit-Dhakad/LeetCode/tree/master/0001-two-sum) |
+| [0027-remove-element](https://github.com/Rohit-Dhakad/LeetCode/tree/master/0027-remove-element) |
 | [0414-third-maximum-number](https://github.com/Rohit-Dhakad/LeetCode/tree/master/0414-third-maximum-number) |
 ## Hash Table
 |  |
@@ -20,4 +21,8 @@ All dsa questions of leetcode
 |  |
 | ------- |
 | [0414-third-maximum-number](https://github.com/Rohit-Dhakad/LeetCode/tree/master/0414-third-maximum-number) |
+## Two Pointers
+|  |
+| ------- |
+| [0027-remove-element](https://github.com/Rohit-Dhakad/LeetCode/tree/master/0027-remove-element) |
 <!---LeetCode Topics End-->
