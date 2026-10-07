@@ -12,6 +12,7 @@ All dsa questions of leetcode
 | [0283-move-zeroes](https://github.com/Rohit-Dhakad/LeetCode/tree/master/0283-move-zeroes) |
 | [0414-third-maximum-number](https://github.com/Rohit-Dhakad/LeetCode/tree/master/0414-third-maximum-number) |
 | [0704-binary-search](https://github.com/Rohit-Dhakad/LeetCode/tree/master/0704-binary-search) |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/Rohit-Dhakad/LeetCode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 ## Hash Table
 |  |
 | ------- |
@@ -20,6 +21,7 @@ All dsa questions of leetcode
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/Rohit-Dhakad/LeetCode/tree/master/0009-palindrome-number) |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/Rohit-Dhakad/LeetCode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 ## Sorting
 |  |
 | ------- |
