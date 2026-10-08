@@ -16,6 +16,7 @@ All dsa questions of leetcode
 | [0977-squares-of-a-sorted-array](https://github.com/Rohit-Dhakad/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Rohit-Dhakad/LeetCode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/Rohit-Dhakad/LeetCode/tree/master/1431-kids-with-the-greatest-number-of-candies) |
+| [1480-running-sum-of-1d-array](https://github.com/Rohit-Dhakad/LeetCode/tree/master/1480-running-sum-of-1d-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -41,4 +42,8 @@ All dsa questions of leetcode
 |  |
 | ------- |
 | [0704-binary-search](https://github.com/Rohit-Dhakad/LeetCode/tree/master/0704-binary-search) |
+## Prefix Sum
+|  |
+| ------- |
+| [1480-running-sum-of-1d-array](https://github.com/Rohit-Dhakad/LeetCode/tree/master/1480-running-sum-of-1d-array) |
 <!---LeetCode Topics End-->
