@@ -17,6 +17,7 @@ All dsa questions of leetcode
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Rohit-Dhakad/LeetCode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/Rohit-Dhakad/LeetCode/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1480-running-sum-of-1d-array](https://github.com/Rohit-Dhakad/LeetCode/tree/master/1480-running-sum-of-1d-array) |
+| [1929-concatenation-of-array](https://github.com/Rohit-Dhakad/LeetCode/tree/master/1929-concatenation-of-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -46,4 +47,8 @@ All dsa questions of leetcode
 |  |
 | ------- |
 | [1480-running-sum-of-1d-array](https://github.com/Rohit-Dhakad/LeetCode/tree/master/1480-running-sum-of-1d-array) |
+## Simulation
+|  |
+| ------- |
+| [1929-concatenation-of-array](https://github.com/Rohit-Dhakad/LeetCode/tree/master/1929-concatenation-of-array) |
 <!---LeetCode Topics End-->
