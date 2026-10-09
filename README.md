@@ -27,6 +27,7 @@ All dsa questions of leetcode
 | ------- |
 | [0009-palindrome-number](https://github.com/Rohit-Dhakad/LeetCode/tree/master/0009-palindrome-number) |
 | [0231-power-of-two](https://github.com/Rohit-Dhakad/LeetCode/tree/master/0231-power-of-two) |
+| [0326-power-of-three](https://github.com/Rohit-Dhakad/LeetCode/tree/master/0326-power-of-three) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Rohit-Dhakad/LeetCode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 ## Sorting
 |  |
@@ -60,4 +61,5 @@ All dsa questions of leetcode
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/Rohit-Dhakad/LeetCode/tree/master/0231-power-of-two) |
+| [0326-power-of-three](https://github.com/Rohit-Dhakad/LeetCode/tree/master/0326-power-of-three) |
 <!---LeetCode Topics End-->
