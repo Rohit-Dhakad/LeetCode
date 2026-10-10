@@ -26,6 +26,7 @@ All dsa questions of leetcode
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/Rohit-Dhakad/LeetCode/tree/master/0009-palindrome-number) |
+| [0069-sqrtx](https://github.com/Rohit-Dhakad/LeetCode/tree/master/0069-sqrtx) |
 | [0231-power-of-two](https://github.com/Rohit-Dhakad/LeetCode/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/Rohit-Dhakad/LeetCode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Rohit-Dhakad/LeetCode/tree/master/0342-power-of-four) |
@@ -45,6 +46,7 @@ All dsa questions of leetcode
 ## Binary Search
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/Rohit-Dhakad/LeetCode/tree/master/0069-sqrtx) |
 | [0704-binary-search](https://github.com/Rohit-Dhakad/LeetCode/tree/master/0704-binary-search) |
 ## Prefix Sum
 |  |
@@ -65,4 +67,8 @@ All dsa questions of leetcode
 | [0231-power-of-two](https://github.com/Rohit-Dhakad/LeetCode/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/Rohit-Dhakad/LeetCode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Rohit-Dhakad/LeetCode/tree/master/0342-power-of-four) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/Rohit-Dhakad/LeetCode/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
