@@ -10,6 +10,7 @@ All dsa questions of leetcode
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Rohit-Dhakad/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Rohit-Dhakad/LeetCode/tree/master/0027-remove-element) |
 | [0189-rotate-array](https://github.com/Rohit-Dhakad/LeetCode/tree/master/0189-rotate-array) |
+| [0268-missing-number](https://github.com/Rohit-Dhakad/LeetCode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Rohit-Dhakad/LeetCode/tree/master/0283-move-zeroes) |
 | [0414-third-maximum-number](https://github.com/Rohit-Dhakad/LeetCode/tree/master/0414-third-maximum-number) |
 | [0485-max-consecutive-ones](https://github.com/Rohit-Dhakad/LeetCode/tree/master/0485-max-consecutive-ones) |
@@ -24,6 +25,7 @@ All dsa questions of leetcode
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Rohit-Dhakad/LeetCode/tree/master/0001-two-sum) |
+| [0268-missing-number](https://github.com/Rohit-Dhakad/LeetCode/tree/master/0268-missing-number) |
 ## Math
 |  |
 | ------- |
@@ -31,12 +33,14 @@ All dsa questions of leetcode
 | [0069-sqrtx](https://github.com/Rohit-Dhakad/LeetCode/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/Rohit-Dhakad/LeetCode/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/Rohit-Dhakad/LeetCode/tree/master/0231-power-of-two) |
+| [0268-missing-number](https://github.com/Rohit-Dhakad/LeetCode/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/Rohit-Dhakad/LeetCode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Rohit-Dhakad/LeetCode/tree/master/0342-power-of-four) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Rohit-Dhakad/LeetCode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 ## Sorting
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/Rohit-Dhakad/LeetCode/tree/master/0268-missing-number) |
 | [0414-third-maximum-number](https://github.com/Rohit-Dhakad/LeetCode/tree/master/0414-third-maximum-number) |
 | [0977-squares-of-a-sorted-array](https://github.com/Rohit-Dhakad/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 ## Two Pointers
@@ -51,6 +55,7 @@ All dsa questions of leetcode
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/Rohit-Dhakad/LeetCode/tree/master/0069-sqrtx) |
+| [0268-missing-number](https://github.com/Rohit-Dhakad/LeetCode/tree/master/0268-missing-number) |
 | [0704-binary-search](https://github.com/Rohit-Dhakad/LeetCode/tree/master/0704-binary-search) |
 ## Prefix Sum
 |  |
@@ -64,6 +69,7 @@ All dsa questions of leetcode
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/Rohit-Dhakad/LeetCode/tree/master/0231-power-of-two) |
+| [0268-missing-number](https://github.com/Rohit-Dhakad/LeetCode/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/Rohit-Dhakad/LeetCode/tree/master/0342-power-of-four) |
 ## Recursion
 |  |
