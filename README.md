@@ -53,6 +53,7 @@ All dsa questions of leetcode
 | [0125-valid-palindrome](https://github.com/Rohit-Dhakad/LeetCode/tree/master/0125-valid-palindrome) |
 | [0189-rotate-array](https://github.com/Rohit-Dhakad/LeetCode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Rohit-Dhakad/LeetCode/tree/master/0283-move-zeroes) |
+| [0680-valid-palindrome-ii](https://github.com/Rohit-Dhakad/LeetCode/tree/master/0680-valid-palindrome-ii) |
 | [0977-squares-of-a-sorted-array](https://github.com/Rohit-Dhakad/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 ## Binary Search
 |  |
@@ -93,4 +94,9 @@ All dsa questions of leetcode
 | ------- |
 | [0125-valid-palindrome](https://github.com/Rohit-Dhakad/LeetCode/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/Rohit-Dhakad/LeetCode/tree/master/0242-valid-anagram) |
+| [0680-valid-palindrome-ii](https://github.com/Rohit-Dhakad/LeetCode/tree/master/0680-valid-palindrome-ii) |
+## Greedy
+|  |
+| ------- |
+| [0680-valid-palindrome-ii](https://github.com/Rohit-Dhakad/LeetCode/tree/master/0680-valid-palindrome-ii) |
 <!---LeetCode Topics End-->
