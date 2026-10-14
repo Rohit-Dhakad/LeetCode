@@ -25,6 +25,7 @@ All dsa questions of leetcode
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Rohit-Dhakad/LeetCode/tree/master/0001-two-sum) |
+| [0242-valid-anagram](https://github.com/Rohit-Dhakad/LeetCode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Rohit-Dhakad/LeetCode/tree/master/0268-missing-number) |
 ## Math
 |  |
@@ -40,6 +41,7 @@ All dsa questions of leetcode
 ## Sorting
 |  |
 | ------- |
+| [0242-valid-anagram](https://github.com/Rohit-Dhakad/LeetCode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Rohit-Dhakad/LeetCode/tree/master/0268-missing-number) |
 | [0414-third-maximum-number](https://github.com/Rohit-Dhakad/LeetCode/tree/master/0414-third-maximum-number) |
 | [0977-squares-of-a-sorted-array](https://github.com/Rohit-Dhakad/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
@@ -85,4 +87,8 @@ All dsa questions of leetcode
 |  |
 | ------- |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Rohit-Dhakad/LeetCode/tree/master/2778-sum-of-squares-of-special-elements) |
+## String
+|  |
+| ------- |
+| [0242-valid-anagram](https://github.com/Rohit-Dhakad/LeetCode/tree/master/0242-valid-anagram) |
 <!---LeetCode Topics End-->
