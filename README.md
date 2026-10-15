@@ -9,6 +9,7 @@ All dsa questions of leetcode
 | [0001-two-sum](https://github.com/Rohit-Dhakad/LeetCode/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Rohit-Dhakad/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Rohit-Dhakad/LeetCode/tree/master/0027-remove-element) |
+| [0053-maximum-subarray](https://github.com/Rohit-Dhakad/LeetCode/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/Rohit-Dhakad/LeetCode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Rohit-Dhakad/LeetCode/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/Rohit-Dhakad/LeetCode/tree/master/0268-missing-number) |
@@ -105,6 +106,7 @@ All dsa questions of leetcode
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/Rohit-Dhakad/LeetCode/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/Rohit-Dhakad/LeetCode/tree/master/0169-majority-element) |
 ## Counting
 |  |
@@ -114,4 +116,8 @@ All dsa questions of leetcode
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Rohit-Dhakad/LeetCode/tree/master/0169-majority-element) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/Rohit-Dhakad/LeetCode/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
