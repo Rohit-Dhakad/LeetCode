@@ -9,6 +9,7 @@ All dsa questions of leetcode
 | [0001-two-sum](https://github.com/Rohit-Dhakad/LeetCode/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Rohit-Dhakad/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Rohit-Dhakad/LeetCode/tree/master/0027-remove-element) |
+| [0169-majority-element](https://github.com/Rohit-Dhakad/LeetCode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Rohit-Dhakad/LeetCode/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/Rohit-Dhakad/LeetCode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Rohit-Dhakad/LeetCode/tree/master/0283-move-zeroes) |
@@ -25,6 +26,7 @@ All dsa questions of leetcode
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Rohit-Dhakad/LeetCode/tree/master/0001-two-sum) |
+| [0169-majority-element](https://github.com/Rohit-Dhakad/LeetCode/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/Rohit-Dhakad/LeetCode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Rohit-Dhakad/LeetCode/tree/master/0268-missing-number) |
 ## Math
@@ -41,6 +43,7 @@ All dsa questions of leetcode
 ## Sorting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Rohit-Dhakad/LeetCode/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/Rohit-Dhakad/LeetCode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Rohit-Dhakad/LeetCode/tree/master/0268-missing-number) |
 | [0414-third-maximum-number](https://github.com/Rohit-Dhakad/LeetCode/tree/master/0414-third-maximum-number) |
@@ -99,4 +102,16 @@ All dsa questions of leetcode
 |  |
 | ------- |
 | [0680-valid-palindrome-ii](https://github.com/Rohit-Dhakad/LeetCode/tree/master/0680-valid-palindrome-ii) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Rohit-Dhakad/LeetCode/tree/master/0169-majority-element) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Rohit-Dhakad/LeetCode/tree/master/0169-majority-element) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Rohit-Dhakad/LeetCode/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
