@@ -23,6 +23,7 @@ All dsa questions of leetcode
 | [1480-running-sum-of-1d-array](https://github.com/Rohit-Dhakad/LeetCode/tree/master/1480-running-sum-of-1d-array) |
 | [1929-concatenation-of-array](https://github.com/Rohit-Dhakad/LeetCode/tree/master/1929-concatenation-of-array) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Rohit-Dhakad/LeetCode/tree/master/2778-sum-of-squares-of-special-elements) |
+| [3024-type-of-triangle](https://github.com/Rohit-Dhakad/LeetCode/tree/master/3024-type-of-triangle) |
 ## Hash Table
 |  |
 | ------- |
@@ -41,6 +42,7 @@ All dsa questions of leetcode
 | [0326-power-of-three](https://github.com/Rohit-Dhakad/LeetCode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Rohit-Dhakad/LeetCode/tree/master/0342-power-of-four) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Rohit-Dhakad/LeetCode/tree/master/1295-find-numbers-with-even-number-of-digits) |
+| [3024-type-of-triangle](https://github.com/Rohit-Dhakad/LeetCode/tree/master/3024-type-of-triangle) |
 ## Sorting
 |  |
 | ------- |
@@ -49,6 +51,7 @@ All dsa questions of leetcode
 | [0268-missing-number](https://github.com/Rohit-Dhakad/LeetCode/tree/master/0268-missing-number) |
 | [0414-third-maximum-number](https://github.com/Rohit-Dhakad/LeetCode/tree/master/0414-third-maximum-number) |
 | [0977-squares-of-a-sorted-array](https://github.com/Rohit-Dhakad/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
+| [3024-type-of-triangle](https://github.com/Rohit-Dhakad/LeetCode/tree/master/3024-type-of-triangle) |
 ## Two Pointers
 |  |
 | ------- |
@@ -120,4 +123,8 @@ All dsa questions of leetcode
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Rohit-Dhakad/LeetCode/tree/master/0053-maximum-subarray) |
+## Polygons
+|  |
+| ------- |
+| [3024-type-of-triangle](https://github.com/Rohit-Dhakad/LeetCode/tree/master/3024-type-of-triangle) |
 <!---LeetCode Topics End-->
