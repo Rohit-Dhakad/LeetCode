@@ -99,6 +99,7 @@ All dsa questions of leetcode
 ## String
 |  |
 | ------- |
+| [0058-length-of-last-word](https://github.com/Rohit-Dhakad/LeetCode/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/Rohit-Dhakad/LeetCode/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/Rohit-Dhakad/LeetCode/tree/master/0242-valid-anagram) |
 | [0680-valid-palindrome-ii](https://github.com/Rohit-Dhakad/LeetCode/tree/master/0680-valid-palindrome-ii) |
