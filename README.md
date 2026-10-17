@@ -9,6 +9,7 @@ All dsa questions of leetcode
 | [0001-two-sum](https://github.com/Rohit-Dhakad/LeetCode/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Rohit-Dhakad/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Rohit-Dhakad/LeetCode/tree/master/0027-remove-element) |
+| [0048-rotate-image](https://github.com/Rohit-Dhakad/LeetCode/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/Rohit-Dhakad/LeetCode/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/Rohit-Dhakad/LeetCode/tree/master/0075-sort-colors) |
 | [0118-pascals-triangle](https://github.com/Rohit-Dhakad/LeetCode/tree/master/0118-pascals-triangle) |
@@ -38,6 +39,7 @@ All dsa questions of leetcode
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/Rohit-Dhakad/LeetCode/tree/master/0009-palindrome-number) |
+| [0048-rotate-image](https://github.com/Rohit-Dhakad/LeetCode/tree/master/0048-rotate-image) |
 | [0069-sqrtx](https://github.com/Rohit-Dhakad/LeetCode/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/Rohit-Dhakad/LeetCode/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/Rohit-Dhakad/LeetCode/tree/master/0231-power-of-two) |
@@ -144,4 +146,8 @@ All dsa questions of leetcode
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/Rohit-Dhakad/LeetCode/tree/master/0075-sort-colors) |
+## Matrix
+|  |
+| ------- |
+| [0048-rotate-image](https://github.com/Rohit-Dhakad/LeetCode/tree/master/0048-rotate-image) |
 <!---LeetCode Topics End-->
