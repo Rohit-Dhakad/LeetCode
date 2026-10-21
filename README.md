@@ -14,6 +14,7 @@ All dsa questions of leetcode
 | [0054-spiral-matrix](https://github.com/Rohit-Dhakad/LeetCode/tree/master/0054-spiral-matrix) |
 | [0075-sort-colors](https://github.com/Rohit-Dhakad/LeetCode/tree/master/0075-sort-colors) |
 | [0118-pascals-triangle](https://github.com/Rohit-Dhakad/LeetCode/tree/master/0118-pascals-triangle) |
+| [0128-longest-consecutive-sequence](https://github.com/Rohit-Dhakad/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/Rohit-Dhakad/LeetCode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Rohit-Dhakad/LeetCode/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/Rohit-Dhakad/LeetCode/tree/master/0268-missing-number) |
@@ -33,6 +34,7 @@ All dsa questions of leetcode
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Rohit-Dhakad/LeetCode/tree/master/0001-two-sum) |
+| [0128-longest-consecutive-sequence](https://github.com/Rohit-Dhakad/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/Rohit-Dhakad/LeetCode/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/Rohit-Dhakad/LeetCode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Rohit-Dhakad/LeetCode/tree/master/0268-missing-number) |
@@ -153,4 +155,8 @@ All dsa questions of leetcode
 | ------- |
 | [0048-rotate-image](https://github.com/Rohit-Dhakad/LeetCode/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/Rohit-Dhakad/LeetCode/tree/master/0054-spiral-matrix) |
+## Union-Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/Rohit-Dhakad/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
