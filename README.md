@@ -116,6 +116,7 @@ All dsa questions of leetcode
 | [0125-valid-palindrome](https://github.com/Rohit-Dhakad/LeetCode/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/Rohit-Dhakad/LeetCode/tree/master/0242-valid-anagram) |
 | [0680-valid-palindrome-ii](https://github.com/Rohit-Dhakad/LeetCode/tree/master/0680-valid-palindrome-ii) |
+| [0796-rotate-string](https://github.com/Rohit-Dhakad/LeetCode/tree/master/0796-rotate-string) |
 ## Greedy
 |  |
 | ------- |
@@ -159,4 +160,8 @@ All dsa questions of leetcode
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Rohit-Dhakad/LeetCode/tree/master/0128-longest-consecutive-sequence) |
+## String Matching
+|  |
+| ------- |
+| [0796-rotate-string](https://github.com/Rohit-Dhakad/LeetCode/tree/master/0796-rotate-string) |
 <!---LeetCode Topics End-->
