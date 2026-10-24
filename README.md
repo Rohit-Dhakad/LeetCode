@@ -37,6 +37,7 @@ All dsa questions of leetcode
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Rohit-Dhakad/LeetCode/tree/master/0001-two-sum) |
+| [0012-integer-to-roman](https://github.com/Rohit-Dhakad/LeetCode/tree/master/0012-integer-to-roman) |
 | [0128-longest-consecutive-sequence](https://github.com/Rohit-Dhakad/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/Rohit-Dhakad/LeetCode/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/Rohit-Dhakad/LeetCode/tree/master/0242-valid-anagram) |
@@ -46,6 +47,7 @@ All dsa questions of leetcode
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/Rohit-Dhakad/LeetCode/tree/master/0009-palindrome-number) |
+| [0012-integer-to-roman](https://github.com/Rohit-Dhakad/LeetCode/tree/master/0012-integer-to-roman) |
 | [0048-rotate-image](https://github.com/Rohit-Dhakad/LeetCode/tree/master/0048-rotate-image) |
 | [0069-sqrtx](https://github.com/Rohit-Dhakad/LeetCode/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/Rohit-Dhakad/LeetCode/tree/master/0189-rotate-array) |
@@ -120,6 +122,7 @@ All dsa questions of leetcode
 ## String
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/Rohit-Dhakad/LeetCode/tree/master/0012-integer-to-roman) |
 | [0058-length-of-last-word](https://github.com/Rohit-Dhakad/LeetCode/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/Rohit-Dhakad/LeetCode/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/Rohit-Dhakad/LeetCode/tree/master/0242-valid-anagram) |
