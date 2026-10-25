@@ -10,6 +10,7 @@ All dsa questions of leetcode
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Rohit-Dhakad/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Rohit-Dhakad/LeetCode/tree/master/0027-remove-element) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Rohit-Dhakad/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
+| [0045-jump-game-ii](https://github.com/Rohit-Dhakad/LeetCode/tree/master/0045-jump-game-ii) |
 | [0048-rotate-image](https://github.com/Rohit-Dhakad/LeetCode/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/Rohit-Dhakad/LeetCode/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/Rohit-Dhakad/LeetCode/tree/master/0054-spiral-matrix) |
@@ -133,6 +134,7 @@ All dsa questions of leetcode
 ## Greedy
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/Rohit-Dhakad/LeetCode/tree/master/0045-jump-game-ii) |
 | [0680-valid-palindrome-ii](https://github.com/Rohit-Dhakad/LeetCode/tree/master/0680-valid-palindrome-ii) |
 ## Divide and Conquer
 |  |
@@ -150,6 +152,7 @@ All dsa questions of leetcode
 ## Dynamic Programming
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/Rohit-Dhakad/LeetCode/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/Rohit-Dhakad/LeetCode/tree/master/0053-maximum-subarray) |
 | [0118-pascals-triangle](https://github.com/Rohit-Dhakad/LeetCode/tree/master/0118-pascals-triangle) |
 ## Polygons
