@@ -9,6 +9,7 @@ All dsa questions of leetcode
 | [0001-two-sum](https://github.com/Rohit-Dhakad/LeetCode/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Rohit-Dhakad/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Rohit-Dhakad/LeetCode/tree/master/0027-remove-element) |
+| [0033-search-in-rotated-sorted-array](https://github.com/Rohit-Dhakad/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0048-rotate-image](https://github.com/Rohit-Dhakad/LeetCode/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/Rohit-Dhakad/LeetCode/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/Rohit-Dhakad/LeetCode/tree/master/0054-spiral-matrix) |
@@ -84,6 +85,7 @@ All dsa questions of leetcode
 ## Binary Search
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/Rohit-Dhakad/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0069-sqrtx](https://github.com/Rohit-Dhakad/LeetCode/tree/master/0069-sqrtx) |
 | [0268-missing-number](https://github.com/Rohit-Dhakad/LeetCode/tree/master/0268-missing-number) |
 | [0704-binary-search](https://github.com/Rohit-Dhakad/LeetCode/tree/master/0704-binary-search) |
